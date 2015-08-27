@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\pre-dexed\debug\classes-cc545f041a3b03bcc86d821c494c2c945be239a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\compaq\.gradle\caches\modules-2\files-2.1\net.minidev\json-smart\1.3\1c451cab0b07b527b66b964a427988daf66dd2da\json-smart-1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c451cab0b07b527b66b964a427988daf66dd2da">
+        <dex dex="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\pre-dexed\debug\json-smart-1.3-d91facbfe42b46f5e91d24244b6e68096c7ec257.jar" />
+    </item>
+    <item
+        jar="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\pre-dexed\debug\classes-09a1bf2eb82f2554c9f7f74558a84c03374761f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\compaq\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-eb00dbce5ae9987582957b132a350e3c5af22dc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\compaq\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5-cf872225f734d60efca737d703b932732dae8a83.jar" />
+    </item>
+    <item
+        jar="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\compaq\Desktop\Android-Bing-Search-API-Example-master 2\Android-Bing-Search-API-Example-master 2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a82243e3eb0821332cf1a7d8fade7b2ef33f562c.jar" />
+    </item>
+
+</items>
